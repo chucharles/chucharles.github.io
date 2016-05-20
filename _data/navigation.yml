@@ -1,5 +1,14 @@
 # main links links
 main:
+  - title: "About Me"
+    url:
+
+  - title: "Blog"
+    url: 
+
+  - title: "Projects"
+  
+  '''
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
@@ -14,3 +23,4 @@ main:
 
   - title: "Sample Collections"
     url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
+    '''
